@@ -1,0 +1,25 @@
+absl-py==1.4.0
+attrs==22.2.0
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+contourpy==1.0.7
+cvzone==1.1
+cycler==0.11.0
+flatbuffers==23.3.3
+fonttools==4.39.3
+importlib-resources==5.12.0
+kiwisolver==1.4.4
+matplotlib==3.7.1
+mediapipe==0.9.2.1
+numpy==1.24.2
+opencv-contrib-python==4.7.0.72
+opencv-python==4.7.0.72
+packaging==23.0
+Pillow==9.5.0
+protobuf==3.20.3
+pyparsing==3.0.9
+pyserial==3.5
+python-dateutil==2.8.2
+serialDevice==0.2
+six==1.16.0
+wincertstore==0.2
+zipp==3.15.0
