@@ -7,6 +7,4 @@ This project is using:
 
 ## Demo
 
-<video width="320" height="240" controls>
-  <source src="gesture.mp4" type="video/mp4">
-</video>
+https://github.com/AarnoStormborn/Gesture-Lights/assets/87276246/b7872acb-7699-457f-9d92-560d2747d23f
